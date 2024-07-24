@@ -1,0 +1,20 @@
+.aside__userProfile {
+	display: flex;
+	align-items: center;
+	gap: 12px;
+}
+
+.aside__userProfile_img {
+	width: 42px;
+	height: 42px;
+}
+
+.aside__userProfile_about h4 {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.aside__userProfile_about p {
+	font-size: 12px;
+	color: #757575;
+}

@@ -1,0 +1,22 @@
+.logo {
+	display: flex;
+	align-items: center;
+}
+
+.logo__image {
+	width: 37px;
+	height: 37px;
+}
+
+.logo__title {
+	font-size: 26px;
+	font-weight: 600;
+	margin-left: 8px;
+}
+
+.logo__version {
+	font-size: 10px;
+	color: #838383;
+	font-weight: 500;
+	margin-left: 4px;
+}
